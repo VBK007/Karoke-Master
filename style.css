@@ -1,0 +1,59 @@
+.demo-layout-transparent {
+  background: url('./a.jpg') center / cover;
+}
+.card-text{
+	font-size: 19px;
+font-family: 	Roboto;
+}
+
+.demo-layout-transparent .mdl-layout__header,
+.demo-layout-transparent .mdl-layout__drawer-button {
+  
+  color: white;
+}
+
+th{
+
+font-family: Impact;
+
+}
+
+h3{
+font-family: 	Impact;
+}
+
+.mdl-navigation__link{
+	size: 22px;
+	font-size: 22px;
+}
+.mdl-layout-title{
+font-size: 22px;
+}
+
+.card{
+	width: 400px;
+height: 520px;
+overflow: hidden;
+}
+.card-img-top{
+width: 420px;
+height: 350px;
+
+
+
+}
+
+.btn-primary{
+	font-size: 20px;
+
+}
+.card-img-top {
+  padding: 50px;
+  transition: transform .2s; 
+  margin: 0 auto;
+}
+
+.card-img-top:hover {
+  transform: scale(1.5); 
+}
+
